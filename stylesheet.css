@@ -1,0 +1,43 @@
+header{
+    text-align: left;
+    vertical-align: bottom;
+    background-image: url(web\ devlopment\ is\ an\ art.2.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh
+}
+
+nav{
+    padding: 20px;
+    background-color: black;
+}
+nav a{
+    color: white;
+    padding: 20px;
+    margin: 20px;
+}
+nav a:hover{
+    background-color: red;
+}
+
+
+main{
+    height: 100vh;
+    border: 1px solid black;
+    margin: 10px;
+    border-radius: 50px;
+    text-align: center;
+    background-color: white;
+    color: black;
+    font-size: 1.15em;
+    
+}
+.image{
+    border: 2px solid;
+    border-radius: 50px;
+    margin-top: 20px;
+    
+}
+
+
+
